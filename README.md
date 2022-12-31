@@ -25,5 +25,6 @@ In this project ,I applied all the advanced concepts of JS  so that it gives me 
 
 
 ## ScreenShorts 
+![image](https://user-images.githubusercontent.com/111122684/210131173-6acb436d-2fc3-475a-8708-9cd79f772d26.png)
 
 ![image](https://user-images.githubusercontent.com/111122684/209715370-05b4213d-0ff7-49d9-bbae-bac0b00861a8.png)
